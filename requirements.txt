@@ -1,6 +1,6 @@
 alembic==1.11.3
 blinker==1.6.2
-Flask==2.1.1
+Flask==2.2.5
 click==8.1.7
 Flask-Migrate==4.0.4
 Flask-SQLAlchemy==3.0.5
@@ -14,4 +14,4 @@ packaging==23.1
 psycopg2-binary==2.9.7
 SQLAlchemy==2.0.20
 typing_extensions==4.7.1
-Werkzeug==2.0.1
+Werkzeug==2.2.3
